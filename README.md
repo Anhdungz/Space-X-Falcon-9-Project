@@ -1,4 +1,4 @@
-# tCapstone Project from Cursea
+# Capstone Project from Coursea
 
 ## Editing the file
 
