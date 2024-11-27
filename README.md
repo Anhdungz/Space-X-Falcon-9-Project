@@ -1,4 +1,4 @@
-# testrepo
+# tCapstone Project from Cursea
 
 ## Editing the file
 
